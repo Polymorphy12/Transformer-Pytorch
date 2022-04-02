@@ -6,7 +6,7 @@ https://www.kaggle.com/code/polymorphy/transformer-pytorch
 ![image](https://user-images.githubusercontent.com/46921525/159798633-25e6dfb6-d049-481d-9053-07b3f70bae53.png)
 
 ### Most of my work is implementing the Transformer model.
-### Dataloader & Data & Train & Evaluation codes are from a reference (hyunwoongko 's repo)
+### Dataloader & Data & Train & Evaluation codes are from the reference (hyunwoongko 's repo)
 
 ## Reference
 1. https://cpm0722.github.io/pytorch-implementation/transformer
